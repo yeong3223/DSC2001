@@ -10,7 +10,7 @@
 ## 설치 및 실행 방법
 Colab에서 실행하기 위해 아래 버튼을 클릭하세요:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/사용자명/레포지토리명/blob/main/데사프도움닫기.ipynb](https://colab.research.google.com/github/yeong3223/DSC2001/blob/main/%EB%8D%B0%EC%82%AC%ED%94%84%EB%8F%84%EC%9B%80%EB%8B%AB%EA%B8%B0.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yeong3223/DSC2001/blob/main/%EB%8D%B0%EC%82%AC%ED%94%84%EB%8F%84%EC%9B%80%EB%8B%AB%EA%B8%B0.ipynb)
 
 로컬 환경에서 실행하려면 다음 명령어를 사용하세요:
 
